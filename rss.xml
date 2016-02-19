@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[matthew-abraham-law]]></title>
         <description><![CDATA[matthew-abraham-law]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthew-abraham-law/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 01:30:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 01:32:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthew-abraham-law/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Abraham | Law]]></title>
-            <description><![CDATA[<article><h1>Abraham | Law</h1><h2>Providing professional legal services since 1993, Abraham | Lawand Matthew Abraham have become a trusted asset forsuccessful business owners and their families. </h2><p>professional • trustworthy • efficient</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddbe9be8-642d-46a2-98b5-aa8c580a8f49.jpg"></article>]]></description>
-            <link>undefinedabraham-or-law/index.html</link>
+            <description><![CDATA[<article><h1>Abraham | Law</h1><h2>Providing professional legal services since 1993, Abraham | Lawand Matthew Abraham have become a trusted asset forsuccessful business owners and their families. </h2><p>professional • trustworthy • efficient</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca06969b57504510472854fc07a41ae20c9c774c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/matthew-abraham-law/abraham-or-law/index.html</link>
             <guid isPermaLink="false">e94e1ae2-7d7f-461a-bb51-1e67030ade82</guid>
-            <pubDate>Fri, 19 Feb 2016 01:29:06 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 01:32:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
