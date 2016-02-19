@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T01:29:06.428Z'
-dateModified: '2016-02-19T01:28:36.508Z'
+datePublished: '2016-02-19T01:32:09.572Z'
+dateModified: '2016-02-19T01:29:14.441Z'
 title: 'Abraham | Law'
 author: []
+sourcePath: _posts/2016-02-19-abraham-or-law.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-abraham-or-law.md
-published: true
 url: abraham-or-law/index.html
 _type: Article
 
